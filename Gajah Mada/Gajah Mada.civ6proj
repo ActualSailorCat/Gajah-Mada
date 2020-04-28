@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Gajah Mada</Name>
+    <Guid>ed6d133e-4b9d-4194-b8db-10075e8dd90c</Guid>
+    <ProjectGuid>b8682371-0073-4976-9451-9226b63e2a5f</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Adds Gajah Mada as an alternative leader for the Indonesia civilization.</Teaser>
+    <Description>Adds Gajah Mada as an alternative leader for the Indonesia civilization.</Description>
+    <Authors>Deliverator</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Gajah Mada</AssemblyName>
+    <RootNamespace>Gajah Mada</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Gajah_Mada.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Artdefs" />
+    <Folder Include="Core" />
+    <Folder Include="Assets" />
+    <Folder Include="Icons" />
+    <Folder Include="Materials" />
+    <Folder Include="XLPs" />
+    <Folder Include="Textures" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Artdefs\LeaderFallbacks.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Artdefs\Leaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_Agenda.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_AI.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_Colors.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_Config.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_Expac1.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_Expac2.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_Expacs.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_GameDefines.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_Traits.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_UI.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Core\GajahMada_UU.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Icons\GajahMada_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\Atlas.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\LeaderFallbacks.xlp">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="XLPs\UILeaders.xlp">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
