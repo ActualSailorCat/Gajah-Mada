@@ -4,7 +4,7 @@
 
 INSERT INTO Players (Domain, CivilizationType, CivilizationName, CivilizationIcon, CivilizationAbilityName, CivilizationAbilityDescription, CivilizationAbilityIcon, LeaderType, LeaderName, LeaderIcon, LeaderAbilityName, LeaderAbilityDescription, LeaderAbilityIcon)
 VALUES	(
-		-- Civilization
+		
 		'Players:Expansion2_Players', -- Domain
 		'CIVILIZATION_INDONESIA', -- CivilizationType
 		'LOC_CIVILIZATION_INDONESIA_NAME', -- CivilizationName
@@ -13,7 +13,7 @@ VALUES	(
 		'LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION', -- CivilizationAbilityDescription
 		'ICON_CIVILIZATION_INDONESIA', -- CivilizationAbilityIcon
 		
-		-- Leader
+		
 		'LEADER_CVS_GAJAH_MADA', -- LeaderType
 		'LOC_LEADER_CVS_GAJAH_MADA_NAME', -- LeaderName
 		'ICON_LEADER_CVS_GAJAH_MADA', -- LeaderIcon

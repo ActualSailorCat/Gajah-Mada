@@ -11,7 +11,7 @@ VALUES	('LEADER_CVS_GAJAH_MADA',	'KIND_LEADER'	);
 -----------------------------------------------
 
 INSERT INTO	CivilizationLeaders
-		(CivilizationType,				LeaderType,				CapitalName				)
+		(CivilizationType,			LeaderType,					CapitalName					)
 VALUES	('CIVILIZATION_INDONESIA',	'LEADER_CVS_GAJAH_MADA',	'LOC_CITY_NAME_MAJAPAHIT'	);
 
 -----------------------------------------------
@@ -23,7 +23,7 @@ INSERT INTO	Leaders
 VALUES	('LEADER_CVS_GAJAH_MADA',	'LOC_LEADER_CVS_GAJAH_MADA_NAME',	'LEADER_DEFAULT', 	4				);
 		
 -----------------------------------------------
--- LeaderQuotes
+-- Quotes
 -----------------------------------------------
 
 INSERT INTO	LeaderQuotes
@@ -35,13 +35,5 @@ VALUES	('LEADER_CVS_GAJAH_MADA',	'LOC_PEDIA_LEADERS_PAGE_CVS_GAJAH_MADA_QUOTE'	)
 -----------------------------------------------
 
 INSERT INTO	LoadingInfo
-		(LeaderType,				ForegroundImage,				BackgroundImage,					PlayDawnOfManAudio	)
+		(LeaderType,				ForegroundImage,					BackgroundImage,					PlayDawnOfManAudio	)
 VALUES	('LEADER_CVS_GAJAH_MADA',	'LEADER_CVS_GAJAH_MADA_NEUTRAL',	'LEADER_CVS_GAJAH_MADA_BACKGROUND',	0					);
-
------------------------------------------------
--- FavoredReligions
------------------------------------------------
-
---INSERT INTO FavoredReligions
---		(LeaderType,				ReligionType		)
---VALUES	('LEADER_CVS_GAJAH_MADA',	'RELIGION_ISLAM'	);
