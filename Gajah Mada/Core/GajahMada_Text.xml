@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- GajahMada_Text -->
-<!-- Author: Darrell -->
-<!-- DateCreated: 4/28/2020 12:00:39 PM -->
 <GameData>
-
+    <LocalizedText>
+        <Replace Language="en_US" Tag="LOC_LEADER_CVS_GAJAH_MADA_NAME">
+            <Text>Gajah Mada</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_NAME">
+            <Text>Sumpah Palapa</Text>
+        </Replace>
+        <Replace Language="en_US" Tag="LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_DESCRIPTION">
+            <Text>Something something...</Text>
+        </Replace>
+    </LocalizedText>
 </GameData>

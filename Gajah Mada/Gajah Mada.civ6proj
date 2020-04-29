@@ -18,12 +18,14 @@
     <CompatibleVersions>1.2,2.0</CompatibleVersions>
     <AssemblyName>Gajah Mada</AssemblyName>
     <RootNamespace>Gajah Mada</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gajah_DB"><File>Core/GajahMada_GameDefines.sql</File></UpdateDatabase><UpdateArt id="Gajah_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="Gajah_Text"><File>Core/GajahMada_Text.xml</File></UpdateText><UpdateColors id="Gajah_Colors"><File>Core/GajahMada_Colors.sql</File></UpdateColors></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Gajah_Conf_DB"><File>Core/GajahMada_Config.sql</File></UpdateDatabase><UpdateColors id="Gajah_Conf_Colors"><File>Core/GajahMada_Colors.sql</File></UpdateColors><UpdateText id="Gajah_Conf_Text"><File>Core/GajahMada_Text.xml</File></UpdateText><UpdateArt id="Gajah_Conf_Art"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="Gajah_Mada.Art.xml" />
+    <None Include="Gajah Mada.Art.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Artdefs" />

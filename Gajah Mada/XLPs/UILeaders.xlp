@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::XLP>
+<AssetObjects..XLP>
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
@@ -10,8 +10,24 @@
 	<m_PackageName text="UILeaders"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="LEADER_GAJAH_MADA_NEUTRAL"/>
-			<m_ObjectName text="LEADER_GAJAH_MADA_NEUTRAL"/>
+			<m_EntryID text="CVS_GAJAH_MADA_1"/>
+			<m_ObjectName text="CVS_GAJAH_MADA_1"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CVS_GAJAH_MADA_3"/>
+			<m_ObjectName text="CVS_GAJAH_MADA_3"/>
+		</Element>
+		<Element>
+			<m_EntryID text="CVS_GAJAH_MADA_4"/>
+			<m_ObjectName text="CVS_GAJAH_MADA_4"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CVS_GAJAH_MADA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CVS_GAJAH_MADA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CVS_GAJAH_MADA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CVS_GAJAH_MADA_BACKGROUND"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
@@ -20,5 +36,5 @@
 		<Element>MACOS</Element>
 		<Element>IOS</Element>
 	</m_AllowedPlatforms>
-</AssetObjects::XLP>
+</AssetObjects..XLP>
 
