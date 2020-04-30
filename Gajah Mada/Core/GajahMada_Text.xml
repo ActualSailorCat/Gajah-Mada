@@ -14,7 +14,7 @@
 				<!--DOM-->
 				<Row Tag="LOC_LOADING_INFO_LEADER_CVS_GAJAH_MADA" Language="en_US">
 					<Text>
-						Honour be with you, oh great hero Gajah Mada, prime minister of Majapahit and uniter of the Indonesian archipelago. The stories of your heroism on the battlefield are bested only by the legends of your sworn oath to unite the far-flung islands of Indonesia under one banner. Serving your queen and empire with loyalty, you not only strive to fulfill your oath and conquered any who stood in your path, but you succeeded in capturing what was then the entirety of the known archipelago, the first to unite what is today modern Indonesia.[NEWLINE][NEWLINE]Mighty warrior Gajah Mada, your people yearn for a strong leader who can return them to prosperity! Will you set out to conquer the neighboring kingdoms, further expanding your glory of your empire? Will you build a civilization that can stand the test of time?
+						Honour be with you, oh great hero Gajah Mada, Mahapatih of the Majapahit and uniter of the archipelago of Great Nusantara. The stories of your heroism on the battlefield are bested only by the legends of your sworn oath to unite the far-flung islands of Indonesia under one banner. Your people yearn for a strong leader who can return them to prosperity, and so prosperity you shall bring! Fulfill your Oath once and for all and claim all of Nusantara for the glory of your civilization!
 					</Text>
 				</Row>
 
@@ -23,7 +23,7 @@
 					<Text>Gajah Mada</Text>
 				</Row>
 				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_SUBTITLE" Language="en_US">
-					<Text>King of Kings of Iran and An-Iran</Text>
+					<Text>Mahapatih of the Majapahit Empire</Text>
 				</Row>
 				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_QUOTE" Language="en_US">
 					<Text>
@@ -75,144 +75,144 @@
 				<!--FIRST MEET-->
 				<!--First AI line-->
 				<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>You stand before Shapur, king of kings of Iran and An-Iran, whose lineage is from the gods. For your sake, let us hope our next encounter does not place us on opposite ends of a battlefield.</Text>
+					<Text>You stand before the great warrior and Mahapatih, Gajah Mada of Nusantara. What say you?</Text>
 				</Row>
 				<!--AI invitation to visit nearby City-->
 				<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Join me for a hunt outside our nearest city? The quarry is fierce, the thrill intense, the glory ours for the taking.</Text>
+					<Text>The Majapahit own every significant island in Great Nusantara - care to visit one of the pearls of our empire?</Text>
 				</Row>
 				<!--AI accepts Human invitation-->
 				<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Lead on.</Text>
+					<Text>Agreed.</Text>
 				</Row>
 				<!--AI invitation to exchange Capital Information-->
 				<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Ctesiphon hums with the many cultures welcomed into its marvel. Show me to your capital, so that I may become better acquainted with the next such culture.</Text>
+					<Text>The palace of the Majapahit is known for its beauty and for its grandeur. What is yours like? I'm sure it's not as great, but we should check just in case, don't you think?</Text>
 				</Row>
 
 				<!--GREETINGS-->
 				<Row Tag="LOC_DIPLO_GREETING_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Go on.</Text>
+					<Text>You may speak.</Text>
 				</Row>
 
 				<!--DELEGATION-->
 				<!--AI Accepts-->
 				<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Far be it from me to turn away your delegation.</Text>
+					<Text>Outstanding, they shall have an audience at the palace. It's the one with the red brick wall - can't miss it.</Text>
 				</Row>
 				<!--AI Rejects-->
 				<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Your delegation is untimely. Perhaps later.</Text>
+					<Text>Unless they are coming to swear fealty to the Majapahit on your behalf, they are not welcome.</Text>
 				</Row>
 				<!--AI Requests -->
 				<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>An envoy awaits—with it exotic beasts, musicians, and all the caviar you can eat. Well, if one hasn't eaten the other.</Text>
+					<Text>Envoys of the might Majapahit are eager to share our warmest wishes with you: rich dyes, dazzling gems, and intoxicating spices are but a taste of the wealth of my kingdom.</Text>
 				</Row>
 
 				<!--OPEN BORDERS-->
 				<!--AI accepts from human-->
 				<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>From Naqsh-e Rostam to Mount Damavand, you are welcome to roam the many wonders of Iran.</Text>
+					<Text>The 10,000 isles of Nusantara - and the uncountable seas between - are open to you.</Text>
 				</Row>
 				<!--AI rejects from human-->
 				<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>I refuse.</Text>
+					<Text>Choose to enter these lands and you shall find your ships dashed upon the rocks.</Text>
 				</Row>
 				<!--AI requests from human-->
 				<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>I can either pass in peace, or force my way across your borders. The choice is yours.</Text>
+					<Text>The sea is as vast as the empire of the Majapahit is grand. Will you allow us access to the waters and lands you call your own?</Text>
 				</Row>
 
 				<!--DECLARE FRIENDSHIP-->
 				<!--AI accepts from human-->
 				<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>We shall be the two eyes by which the course of Man is guided.</Text>
+					<Text>A wise statesman never turns down an opportunity for a prudent political partnership.</Text>
 				</Row>
 				<!--AI Rejects from human -->
 				<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Ask again when you have some exploits of your own to share.</Text>
+					<Text>Ha! I would not dream of it!</Text>
 				</Row>
 				<!--AI Requests friendship from human-->
 				<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Few are those I call boon companion. Would you sit by my side in friendship and trust?</Text>
+					<Text>There are those the Majapahit call subjects, and those the Majapahit call friends. We offer you the opportunity to be in the latter category.</Text>
 				</Row>
 				<!--Human accepts AI requests, AI responds-->
 				<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>You have made the right choice.</Text>
+					<Text>Excellent.</Text>
 				</Row>
 				<!--Human rejects AI requests, AI responds-->
 				<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Disappointing.</Text>
+					<Text>You will regret this in time.</Text>
 				</Row>
 
 				<!--ALLIANCE-->
 				<!--AI Requests an alliance from human-->
 				<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Alone, we are formidable; together, we would be indomitable.</Text>
+					<Text>Together, the islands of Nusantara make up the awesome power of Great Nusantara. Imagine what power could be realized with an alliance of our two states!</Text>
 				</Row>
 				<!--AI warns player for border troops-->
 				<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>You are going to say your troops are only passing by, because the alternative is messy.</Text>
+					<Text>Your troops cannot hide amongst the many islands of Nusantara. Remove them at once, or they shall become permanently familiar with the part of Nusantara that lies beneath the waves.</Text>
 				</Row>
 
 				<!--TRADE-->
 				<!--AI Accepts Deal-->
 				<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>A fair trade.</Text>
+					<Text>An acceptable offer.</Text>
 				</Row>
 				<!--AI Rejects Deal-->
 				<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Your offer is an insult.</Text>
+					<Text>What sort of an offer is this?!</Text>
 				</Row>
 
 				<!--DENOUNCE-->
 				<!--From Human-->
 				<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>You are not worth the single arrow it'd take to end your miserable reign.</Text>
+					<Text>I serve the righteous might of the Majapahit, but it is becoming apparent that you serve a much more nefarious purpose...</Text>
 				</Row>
 				<!--From AI-->
 				<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>You are as spineless as your nation is pitiful. At this rate, you will be wiped off the map, and I will be the one to do it. (Denounces You.)</Text>
+					<Text>I serve the righteous might of the Majapahit, but it is becoming apparent that you serve a much more nefarious purpose...(Denounces You.)</Text>
 				</Row>
 
 				<!--DECLARE WAR-->
 				<!--Human Declares War-->
 				<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>I have trampled emperors underfoot like so much wind. Are you so eager to join their ranks?</Text>
+					<Text>How dare you! You are a fool to think someone as insignificant as you could possibly defeat the might of the Majapahit!</Text>
 				</Row>
 				<!--AI Declares War-->
 				<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Good things come to he who waits, but quicker yet to he who takes. Your domain will soon join the glory of Iranshahr.</Text>
+					<Text>Don't take it personally, but your lands will make an excellent addition to the lands of the Majapahit. I would be remiss were I not to conquer them!</Text>
 				</Row>
 
 				<!--MAKE PEACE-->
 				<!--AI accepts from human-->
 				<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>I accept your tribute. Remember this defeat when you next think of challenging me.</Text>
+					<Text>And so, calm returns to the waters of Nusantara. For this I am grateful.</Text>
 				</Row>
 				<!--AI refuses human-->
 				<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Oh, this is far from over. Brace yourself.</Text>
+					<Text>Giving up so easily? We are not finished yet!</Text>
 				</Row>
 				<!--AI requests from human-->
 				<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Might is right, and you'd do well to recognize mine by accepting my terms.</Text>
+					<Text>Let's stop this quarrelling between us. What do you say?</Text>
 				</Row>
 
 				<!--DEFEAT-->
 				<!--AI is Defeated-->
 				<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Just as the nightingale's consummate song must come to an end, so too must all things. Though my life is forfeit, my legacy will live on.</Text>
+					<Text>You may have beaten me, but you will never beat the spirit of the Majapahit, the enduring grandeur of the people of Nusantara!</Text>
 				</Row>
 				<!--Human is Defeated (will see this in hotseat)-->
 				<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Just as the nightingale's consummate song must come to an end, so too must all things. Though my life is forfeit, my legacy will live on.</Text>
+					<Text>You may have beaten me, but you will never beat the spirit of the Majapahit, the enduring grandeur of the people of Nusantara!</Text>
 				</Row>
 
 
 				<!--LEADER AGENDA-->
 				<Row Tag="LOC_AGENDA_CVS_OXUS_TO_EUPHRATES_NAME" Language="en_US">
-					<Text>From Oxus to Euphrates</Text>
+					<Text>Nagarakretagama</Text>
 				</Row>
 				<Row Tag="LOC_AGENDA_CVS_OXUS_TO_EUPHRATES_DESCRIPTION" Language="en_US">
 					<Text>Shapur I will strive to expand his empire by any means. He respects those who go to war, and who maintain a standing army.</Text>
@@ -250,7 +250,7 @@
 
 		<!-- Unit Ability -->
 		<Replace Tag="LOC_ABILITY_CVS_GAJA_MADAH_UA_PREVIEW_TEXT" Language="en_US">
-			<Text>+5 attacking district on home continent.</Text>
+			<Text>+5 when attacking district on home continent.</Text>
 		</Replace>
     </LocalizedText>
 </GameData>
