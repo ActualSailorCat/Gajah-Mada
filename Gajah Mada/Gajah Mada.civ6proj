@@ -61,9 +61,6 @@
     <Content Include="Core\GajahMada_Text.xml">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Core\GajahMada_TextQueue.xml">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="Core\GajahMada_Traits.sql">
       <SubType>Content</SubType>
     </Content>

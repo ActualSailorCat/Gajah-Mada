@@ -4,14 +4,18 @@
 -----------------------------------------------	
 -- Types
 -----------------------------------------------	
-INSERT INTO Types (Type, Kind) VALUES ('TRAIT_LEADER_CVS_GAJAH_MADA_UA', 'KIND_TRAIT');
+INSERT INTO Types 
+		(Type,								Kind)
+VALUES	('TRAIT_LEADER_CVS_GAJAH_MADA_UA', 'KIND_TRAIT'),
+		('TRAIT_LEADER_CVS_GAJAH_MADA_UU', 'KIND_TRAIT');
 
 -----------------------------------------------
 -- LeaderTraits
 -----------------------------------------------	
 INSERT INTO LeaderTraits	
 		(LeaderType,							TraitType)
-VALUES	('LEADER_CVS_GAJAH_MADA',				'TRAIT_LEADER_CVS_GAJAH_MADA_UA');
+VALUES	('LEADER_CVS_GAJAH_MADA',				'TRAIT_LEADER_CVS_GAJAH_MADA_UA'),
+		('LEADER_CVS_GAJAH_MADA',				'TRAIT_LEADER_CVS_GAJAH_MADA_UU');
 
 -----------------------------------------------			
 -- Traits			
