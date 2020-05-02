@@ -258,10 +258,10 @@
 			<Text>Cetbang</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_CVS_GAJAH_MADA_UU_DESCRIPTION" Language="en_US">
-			<Text>Indonesian unique ranged unit when Gajah Mada is their leader. Weaker defense than the Crossbowman it replaces, but increased [ICON_Range] Ranged Combat Strength against melee, anti-cavalary, and naval units.</Text>
+			<Text>Indonesian unique ranged unit when Gajah Mada is their leader. Weaker defense than the Crossbowman it replaces, but increased [ICON_Range] Ranged Combat Strength when attacking melee, anti-cavalary, and naval units.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_CVS_GAJA_MADAH_UU_ATKMOD_PREVIEW_TEXT" Language="en_US">
-			<Text>+5 against melee, anti-cavalry, and naval units.</Text>
+			<Text>+5 when attacking melee, anti-cavalry, and naval units.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_1" Language="en_US">
 			<Text>

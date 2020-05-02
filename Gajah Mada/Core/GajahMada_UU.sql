@@ -38,6 +38,7 @@ INSERT INTO Units	(
 		PurchaseYield,
 		AdvisorType,
 		Combat,
+		RangedCombat
 		BaseSightRange,
 		ZoneOfControl,
 		Domain,
@@ -57,6 +58,7 @@ SELECT	'UNIT_CVS_GAJAH_MADA_UU',	-- UnitType
 		PurchaseYield,
 		AdvisorType,
 		Combat - 7,
+		RangedCombat,
 		BaseSightRange,
 		ZoneOfControl,
 		Domain,
@@ -113,24 +115,41 @@ VALUES	('ABILITY_CVS_GAJAH_MADA_UU_ATKMOD',	'MODIFIER_UNIT_ADJUST_COMBAT_STRENGT
 -- ModifierArguments
 -----------------------------------------------
 INSERT INTO ModifierArguments
-		(ModifierId,							Name,				Value)
-VALUES	('ABILITY_CVS_GAJA_MADAH_UU_ATKMOD',	'Amount',			5);
+		(ModifierId,							Name,			Value)
+VALUES	('ABILITY_CVS_GAJA_MADAH_UU_ATKMOD',	'Amount',		5);
 
 -----------------------------------------------		
 -- RequirementSets
 -----------------------------------------------
 INSERT INTO RequirementSets
 		(RequirementSetId,						RequirementSetType)
-VALUES	('CVS_GAJAH_MADA_UU_REQSET',			'REQUIREMENTSET_TEST_ANY');
+VALUES	('CVS_GAJAH_MADA_UU_REQSET',			'REQUIREMENTSET_TEST_ALL'),
+		('CVS_GAJAH_MADA_UU_TARGET',			'REQUIREMENTSET_TEST_ANY');
 
 -----------------------------------------------
 -- RequirementSetRequirements
 -----------------------------------------------
 INSERT INTO RequirementSetRequirements
 		(RequirementSetId,						RequirementId)
-VALUES  ('CVS_GAJAH_MADA_UU_REQSET',			'OPPONENT_IS_SEA_UNIT'),
-		('CVS_GAJAH_MADA_UU_REQSET',			'OPPONENT_IS_PROMOTION_CLASS_MELEE'),
-		('CVS_GAJAH_MADA_UU_REQSET',			'OPPONENT_ANTI_CAVALRY_REQUIREMENT');
+VALUES  ('CVS_GAJAH_MADA_UU_REQSET',			'UNIT_STRONG_WHEN_ATTACKING_REQUIREMENT'),
+		('CVS_GAJAH_MADA_UU_REQSET',			'CVS_GAJAH_MADA_VALID_TARGET_REQSET_MET'),
+		('CVS_GAJAH_MADA_UU_TARGET',			'OPPONENT_IS_SEA_UNIT'),
+		('CVS_GAJAH_MADA_UU_TARGET',			'OPPONENT_IS_PROMOTION_CLASS_MELEE'),
+		('CVS_GAJAH_MADA_UU_TARGET',			'OPPONENT_ANTI_CAVALRY_REQUIREMENT');
+
+-----------------------------------------------
+-- Requirements
+-----------------------------------------------
+INSERT INTO Requirements
+		(RequirementId,									RequirementType)
+VALUES	('CVS_GAJAH_MADA_VALID_TARGET_REQSET_MET',		'REQUIREMENT_REQUIREMENTSET_IS_MET');
+
+----------------------------------------------
+-- RequirementArguments
+-----------------------------------------------
+INSERT INTO RequirementArguments
+		(RequirementId,									Name,					Value)
+VALUES	('CVS_GAJAH_MADA_VALID_TARGET_REQSET_MET'		'RequirementSetId',		'CVS_GAJAH_MADA_UU_TARGET');
 
 -----------------------------------------------
 -- ModifierStrings
