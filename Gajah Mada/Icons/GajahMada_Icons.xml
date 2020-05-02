@@ -16,6 +16,22 @@
 		<!--Leader Color-->
 		<Row Name="ICON_ATLAS_CIV_GAJAH_MADA_COLOR" IconSize="45" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_GAJAH_MADA_COLOR_45.dds"/>
 		<Row Name="ICON_ATLAS_CIV_GAJAH_MADA_COLOR" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CIV_GAJAH_MADA_COLOR_256.dds"/>
+
+		<!--Cetbang UU-->
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_CVS_GAJAH_MADA_UU_22.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_CVS_GAJAH_MADA_UU_32.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_CVS_GAJAH_MADA_UU_38.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_CVS_GAJAH_MADA_UU_50.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_CVS_GAJAH_MADA_UU_80.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_UNIT_CVS_GAJAH_MADA_UU_256.dds"/>
+
+		<!--Cetbang UU Portrait-->
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU_PORTRAIT" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CVS_GAJAH_MADA_UU_PORTRAIT_38.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU_PORTRAIT" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CVS_GAJAH_MADA_UU_PORTRAIT_50.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU_PORTRAIT" IconSize="70" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CVS_GAJAH_MADA_UU_PORTRAIT_70.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU_PORTRAIT" IconSize="95" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CVS_GAJAH_MADA_UU_PORTRAIT_95.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU_PORTRAIT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CVS_GAJAH_MADA_UU_PORTRAIT_200.dds"/>
+		<Row Name="ICON_ATLAS_CVS_GAJAH_MADA_UU_PORTRAIT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CVS_GAJAH_MADA_UU_PORTRAIT_256.dds"/>
 	</IconTextureAtlases>
 
 	<IconDefinitions>
@@ -23,6 +39,9 @@
 		Gajah Madah
 		-->
 		<Row Name="ICON_LEADER_CVS_GAJAH_MADA"				Atlas="ICON_ATLAS_LEADER_CVS_GAJAH_MADA" Index="0"/>
-		<Row Name="ICON_CIVILIZATION_GAJAH_MADA_COLOR"	Atlas="ICON_ATLAS_CIV_GAJAH_MADA_COLOR" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_GAJAH_MADA_COLOR"		Atlas="ICON_ATLAS_CIV_GAJAH_MADA_COLOR" Index="0"/>
+
+		<Row Name="ICON_UNIT_CVS_GAJAH_MADA_UU"				 Atlas="ICON_ATLAS_CVS_GAJAH_MADA_UU" Index="0"/>
+		<Row Name="ICON_UNIT_CVS_GAJAH_MADA_UU_PORTRAIT"	 Atlas="ICON_ATLAS_CVS_GAJAH_MADA_UU_PORTRAIT" Index="0"/>
 	</IconDefinitions>
 </GameInfo>

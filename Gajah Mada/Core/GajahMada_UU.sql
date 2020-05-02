@@ -24,6 +24,7 @@ INSERT INTO TypeTags
 VALUES	('UNIT_CVS_GAJAH_MADA_UU',				'CLASS_CVS_GAJAH_MADA_UU'),
 		('UNIT_CVS_GAJAH_MADA_UU',				'CLASS_RANGED'),
 		('ABILITY_CVS_GAJAH_MADA_UU_ATK',		'CLASS_CVS_GAJAH_MADA_UU');
+
 -----------------------------------------------
 -- Units
 -----------------------------------------------
@@ -69,6 +70,7 @@ SELECT	'UNIT_CVS_GAJAH_MADA_UU',	-- UnitType
 		MustPurchase
 FROM	Units
 WHERE	UnitType = 'UNIT_CROSSBOWMAN';
+
 -----------------------------------------------
 -- UnitUpgrades
 -----------------------------------------------
@@ -76,12 +78,14 @@ INSERT INTO UnitUpgrades
 		(Unit,					UpgradeUnit)
 SELECT 	'UNIT_CVS_GAJAH_MADA_UU',	UpgradeUnit
 FROM UnitUpgrades WHERE Unit = 'UNIT_CROSSBOWMAN';
+
 -----------------------------------------------
 -- UnitUpgrades
 -----------------------------------------------
 INSERT INTO UnitReplaces
 		(CivUniqueUnitType,			ReplacesUnitType)
 VALUES	('UNIT_CVS_GAJAH_MADA_UU',	'UNIT_CROSSBOWMAN');
+
 -----------------------------------------------
 -- UnitAiInfos
 -----------------------------------------------

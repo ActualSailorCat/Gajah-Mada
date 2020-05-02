@@ -7,6 +7,7 @@
 INSERT INTO FavoredReligions	
 		(LeaderType,				ReligionType)
 VALUES	('LEADER_CVS_GAJAHMADA',	'RELIGION_ISLAM');
+
 -----------------------------------------------	
 -- AiListTypes
 -----------------------------------------------	
@@ -22,6 +23,7 @@ VALUES	('CVS_GAJAHMADA_Civics'),
 		('CVS_GAJAHMADA_FavorDominationVictory'),
 		('CVS_GAJAHMADA_Diplomacy'),
 		('CVS_GAJAHMADA_PlotEvaluation');
+
 -----------------------------------------------	
 -- AiLists
 -----------------------------------------------	
@@ -38,6 +40,7 @@ VALUES	('CVS_GAJAHMADA_Civics',				 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Civics'),
 		('CVS_GAJAHMADA_FavorDominationVictory', 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Strategies'),
 		('CVS_GAJAHMADA_Diplomacy',				 'TRAIT_AGENDA_CVS_GAJAHMADA',		'DiplomaticActions'),
 		('CVS_GAJAHMADA_PlotEvaluation',		 'TRAIT_AGENDA_CVS_GAJAHMADA',		'PlotEvaluation');
+
 -----------------------------------------------	
 -- AiFavoredItems
 -----------------------------------------------
