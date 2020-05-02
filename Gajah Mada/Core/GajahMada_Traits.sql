@@ -10,19 +10,20 @@ VALUES	('TRAIT_LEADER_CVS_GAJAH_MADA_UA', 'KIND_TRAIT'),
 		('TRAIT_LEADER_CVS_GAJAH_MADA_UU', 'KIND_TRAIT');
 
 -----------------------------------------------
+-- Traits
+-----------------------------------------------
+INSERT INTO Traits
+		(TraitType,								Name,											Description)
+VALUES	('TRAIT_LEADER_CVS_GAJAH_MADA_UA',		'LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_NAME',		'LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_DESCRIPTION'),
+        ('TRAIT_LEADER_CVS_GAJAH_MADA_UU',		'LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UU_NAME',		'LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UU_DESCRIPTION');
+
+-----------------------------------------------
 -- LeaderTraits
 -----------------------------------------------	
 INSERT INTO LeaderTraits	
 		(LeaderType,							TraitType)
 VALUES	('LEADER_CVS_GAJAH_MADA',				'TRAIT_LEADER_CVS_GAJAH_MADA_UA'),
 		('LEADER_CVS_GAJAH_MADA',				'TRAIT_LEADER_CVS_GAJAH_MADA_UU');
-
------------------------------------------------			
--- Traits			
------------------------------------------------				
-INSERT INTO Traits				
-		(TraitType,								Name,											Description)
-VALUES	('TRAIT_LEADER_CVS_GAJAH_MADA_UA',		'LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_NAME',		'LOC_TRAIT_LEADER_CVS_GAJAH_MADA_UA_DESCRIPTION');
 
 -----------------------------------------------			
 -- TraitModifiers		
