@@ -1,0 +1,56 @@
+Event	ID	Name			Wwise Object Path	Notes
+	551032012	GajahHateLetsHearIt03			\Default Work Unit\GajahHateLetsHearIt03	
+	551032013	GajahHateLetsHearIt02			\Default Work Unit\GajahHateLetsHearIt02	
+	551032014	GajahHateLetsHearIt01			\Default Work Unit\GajahHateLetsHearIt01	
+	572029404	GajahNeutralNo02			\Default Work Unit\GajahNeutralNo02	
+	572029405	GajahNeutralNo03			\Default Work Unit\GajahNeutralNo03	
+	572029407	GajahNeutralNo01			\Default Work Unit\GajahNeutralNo01	
+	1083409166	GajahHateHello			\Default Work Unit\GajahHateHello	
+	2174920896	GajahDefeated			\Default Work Unit\GajahDefeated	
+	2298184320	GajahHateNo03			\Default Work Unit\GajahHateNo03	
+	2298184321	GajahHateNo02			\Default Work Unit\GajahHateNo02	
+	2298184322	GajahHateNo01			\Default Work Unit\GajahHateNo01	
+	2338648449	GajahNeutralYes01			\Default Work Unit\GajahNeutralYes01	
+	2338648450	GajahNeutralYes02			\Default Work Unit\GajahNeutralYes02	
+	2338648451	GajahNeutralYes03			\Default Work Unit\GajahNeutralYes03	
+	2395326764	GajahIntro			\Default Work Unit\GajahIntro	
+	2406771986	GajahDeclareWar			\Default Work Unit\GajahDeclareWar	
+	2618028148	GajahHateYes03			\Default Work Unit\GajahHateYes03	
+	2618028149	GajahHateYes02			\Default Work Unit\GajahHateYes02	
+	2618028150	GajahHateYes01			\Default Work Unit\GajahHateYes01	
+	2793113581	GajahAttacked			\Default Work Unit\GajahAttacked	
+	2962539580	GajahNeutralLetsHearIt02			\Default Work Unit\GajahNeutralLetsHearIt02	
+	2962539581	GajahNeutralLetsHearIt03			\Default Work Unit\GajahNeutralLetsHearIt03	
+	2962539583	GajahNeutralLetsHearIt01			\Default Work Unit\GajahNeutralLetsHearIt01	
+	3249580181	GajahPeaceful			\Default Work Unit\GajahPeaceful	
+	3762211449	GajahNeutralHello			\Default Work Unit\GajahNeutralHello	
+	4266000557	GajahRequest			\Default Work Unit\GajahRequest	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5919944	GajahHateYes01	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateYes01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateYes01		184384
+	80535635	GajahHateNo03	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateNo03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateNo03		182080
+	187530868	GajahNeutralYes01	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralYes01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralYes01		154432
+	203728095	GajahNeutralNo01	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralNo01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralNo01		165952
+	237498554	GajahHateLetsHearIt01	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateLetsHearIt01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateLetsHearIt01		152128
+	260995321	GajahNeutralNo03	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralNo03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralNo03		207424
+	286893142	GajahRequest	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahRequest_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahRequest		476992
+	328370305	GajahPeaceful	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahPeaceful_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahPeaceful		479296
+	423230337	GajahHateNo01	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateNo01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateNo01		267328
+	493351509	GajahNeutralLetsHearIt01	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralLetsHearIt01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralLetsHearIt01		147520
+	510480707	GajahHateHello	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateHello		175168
+	532975474	GajahNeutralLetsHearIt03	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralLetsHearIt03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralLetsHearIt03		119872
+	559609156	GajahHateYes02	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateYes02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateYes02		195904
+	565408653	GajahNeutralLetsHearIt02	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralLetsHearIt02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralLetsHearIt02		103744
+	624026388	GajahDeclareWar	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahDeclareWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahDeclareWar		580672
+	652276257	GajahHateYes03	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateYes03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateYes03		221248
+	666221844	GajahDefeated	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahDefeated_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahDefeated		670528
+	683281411	GajahIntro	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahIntro		677440
+	689675758	GajahAttacked	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahAttacked_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahAttacked		746560
+	737504740	GajahNeutralYes02	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralYes02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralYes02		103744
+	842846281	GajahHateNo02	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateNo02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateNo02		122176
+	910549614	GajahHateLetsHearIt02	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateLetsHearIt02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateLetsHearIt02		136000
+	912116475	GajahNeutralHello	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralHello		182080
+	926665950	GajahNeutralNo02	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralNo02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralNo02		186688
+	959450939	GajahNeutralYes03	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahNeutralYes03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahNeutralYes03		117568
+	1049867076	GajahHateLetsHearIt03	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\GajahHateLetsHearIt03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\GajahHateLetsHearIt03		140608
+

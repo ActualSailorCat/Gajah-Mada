@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\User\Documents\WwiseProjects\Gajah_Mada\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\User\Documents\WwiseProjects\Gajah_Mada\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\User\Documents\WwiseProjects\Gajah_Mada\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1273037264" Language="SFX">
+			<ShortName>Gajah_Soundbank</ShortName>
+			<Path>Gajah_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2793113581" Name="GajahAttacked"/>
+				<Event Id="2406771986" Name="GajahDeclareWar"/>
+				<Event Id="2174920896" Name="GajahDefeated"/>
+				<Event Id="1083409166" Name="GajahHateHello"/>
+				<Event Id="551032014" Name="GajahHateLetsHearIt01"/>
+				<Event Id="551032013" Name="GajahHateLetsHearIt02"/>
+				<Event Id="551032012" Name="GajahHateLetsHearIt03"/>
+				<Event Id="2298184322" Name="GajahHateNo01"/>
+				<Event Id="2298184321" Name="GajahHateNo02"/>
+				<Event Id="2298184320" Name="GajahHateNo03"/>
+				<Event Id="2618028150" Name="GajahHateYes01"/>
+				<Event Id="2618028149" Name="GajahHateYes02"/>
+				<Event Id="2618028148" Name="GajahHateYes03"/>
+				<Event Id="2395326764" Name="GajahIntro"/>
+				<Event Id="3762211449" Name="GajahNeutralHello"/>
+				<Event Id="2962539583" Name="GajahNeutralLetsHearIt01"/>
+				<Event Id="2962539580" Name="GajahNeutralLetsHearIt02"/>
+				<Event Id="2962539581" Name="GajahNeutralLetsHearIt03"/>
+				<Event Id="572029407" Name="GajahNeutralNo01"/>
+				<Event Id="572029404" Name="GajahNeutralNo02"/>
+				<Event Id="572029405" Name="GajahNeutralNo03"/>
+				<Event Id="2338648449" Name="GajahNeutralYes01"/>
+				<Event Id="2338648450" Name="GajahNeutralYes02"/>
+				<Event Id="2338648451" Name="GajahNeutralYes03"/>
+				<Event Id="3249580181" Name="GajahPeaceful"/>
+				<Event Id="4266000557" Name="GajahRequest"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="5919944" Language="SFX">
+					<ShortName>GajahHateYes01.wav</ShortName>
+					<Path>SFX\GajahHateYes01_9E69E797.wem</Path>
+				</File>
+				<File Id="80535635" Language="SFX">
+					<ShortName>GajahHateNo03.wav</ShortName>
+					<Path>SFX\GajahHateNo03_9E69E797.wem</Path>
+				</File>
+				<File Id="187530868" Language="SFX">
+					<ShortName>GajahNeutralYes01.wav</ShortName>
+					<Path>SFX\GajahNeutralYes01_9E69E797.wem</Path>
+				</File>
+				<File Id="203728095" Language="SFX">
+					<ShortName>GajahNeutralNo01.wav</ShortName>
+					<Path>SFX\GajahNeutralNo01_9E69E797.wem</Path>
+				</File>
+				<File Id="237498554" Language="SFX">
+					<ShortName>GajahHateLetsHearIt01.wav</ShortName>
+					<Path>SFX\GajahHateLetsHearIt01_9E69E797.wem</Path>
+				</File>
+				<File Id="260995321" Language="SFX">
+					<ShortName>GajahNeutralNo03.wav</ShortName>
+					<Path>SFX\GajahNeutralNo03_9E69E797.wem</Path>
+				</File>
+				<File Id="286893142" Language="SFX">
+					<ShortName>GajahRequest.wav</ShortName>
+					<Path>SFX\GajahRequest_9E69E797.wem</Path>
+				</File>
+				<File Id="328370305" Language="SFX">
+					<ShortName>GajahPeaceful.wav</ShortName>
+					<Path>SFX\GajahPeaceful_9E69E797.wem</Path>
+				</File>
+				<File Id="423230337" Language="SFX">
+					<ShortName>GajahHateNo01.wav</ShortName>
+					<Path>SFX\GajahHateNo01_9E69E797.wem</Path>
+				</File>
+				<File Id="493351509" Language="SFX">
+					<ShortName>GajahNeutralLetsHearIt01.wav</ShortName>
+					<Path>SFX\GajahNeutralLetsHearIt01_9E69E797.wem</Path>
+				</File>
+				<File Id="510480707" Language="SFX">
+					<ShortName>GajahHateHello.wav</ShortName>
+					<Path>SFX\GajahHateHello_9E69E797.wem</Path>
+				</File>
+				<File Id="532975474" Language="SFX">
+					<ShortName>GajahNeutralLetsHearIt03.wav</ShortName>
+					<Path>SFX\GajahNeutralLetsHearIt03_9E69E797.wem</Path>
+				</File>
+				<File Id="559609156" Language="SFX">
+					<ShortName>GajahHateYes02.wav</ShortName>
+					<Path>SFX\GajahHateYes02_9E69E797.wem</Path>
+				</File>
+				<File Id="565408653" Language="SFX">
+					<ShortName>GajahNeutralLetsHearIt02.wav</ShortName>
+					<Path>SFX\GajahNeutralLetsHearIt02_9E69E797.wem</Path>
+				</File>
+				<File Id="624026388" Language="SFX">
+					<ShortName>GajahDeclareWar.wav</ShortName>
+					<Path>SFX\GajahDeclareWar_9E69E797.wem</Path>
+				</File>
+				<File Id="652276257" Language="SFX">
+					<ShortName>GajahHateYes03.wav</ShortName>
+					<Path>SFX\GajahHateYes03_9E69E797.wem</Path>
+				</File>
+				<File Id="666221844" Language="SFX">
+					<ShortName>GajahDefeated.wav</ShortName>
+					<Path>SFX\GajahDefeated_9E69E797.wem</Path>
+				</File>
+				<File Id="683281411" Language="SFX">
+					<ShortName>GajahIntro.wav</ShortName>
+					<Path>SFX\GajahIntro_9E69E797.wem</Path>
+				</File>
+				<File Id="689675758" Language="SFX">
+					<ShortName>GajahAttacked.wav</ShortName>
+					<Path>SFX\GajahAttacked_9E69E797.wem</Path>
+				</File>
+				<File Id="737504740" Language="SFX">
+					<ShortName>GajahNeutralYes02.wav</ShortName>
+					<Path>SFX\GajahNeutralYes02_9E69E797.wem</Path>
+				</File>
+				<File Id="842846281" Language="SFX">
+					<ShortName>GajahHateNo02.wav</ShortName>
+					<Path>SFX\GajahHateNo02_9E69E797.wem</Path>
+				</File>
+				<File Id="910549614" Language="SFX">
+					<ShortName>GajahHateLetsHearIt02.wav</ShortName>
+					<Path>SFX\GajahHateLetsHearIt02_9E69E797.wem</Path>
+				</File>
+				<File Id="912116475" Language="SFX">
+					<ShortName>GajahNeutralHello.wav</ShortName>
+					<Path>SFX\GajahNeutralHello_9E69E797.wem</Path>
+				</File>
+				<File Id="926665950" Language="SFX">
+					<ShortName>GajahNeutralNo02.wav</ShortName>
+					<Path>SFX\GajahNeutralNo02_9E69E797.wem</Path>
+				</File>
+				<File Id="959450939" Language="SFX">
+					<ShortName>GajahNeutralYes03.wav</ShortName>
+					<Path>SFX\GajahNeutralYes03_9E69E797.wem</Path>
+				</File>
+				<File Id="1049867076" Language="SFX">
+					<ShortName>GajahHateLetsHearIt03.wav</ShortName>
+					<Path>SFX\GajahHateLetsHearIt03_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
