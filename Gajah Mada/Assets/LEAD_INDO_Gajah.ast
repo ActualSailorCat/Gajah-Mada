@@ -22,7 +22,7 @@
                     </Element>
                     <Element>
                         <m_SlotName text="05_WARNING"/>
-                        <m_AnimationName text="indonesia_gajah_hate_idle"/>
+                        <m_AnimationName text="indonesia_gajah_hate_hello"/>
                     </Element>
                     <Element>
                         <m_SlotName text="06_DEFEAT"/>
@@ -156,49 +156,16 @@
                         <m_Name text="01_FIRST_MEET"/>
                         <m_Description text=""/>
                         <m_AnimationName text="indonesia_gajah_intro"/>
-                        <m_fDuration>8.666667</m_fDuration>
+                        <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers>
                             <Element>
                                 <m_eType>SOUND</m_eType>
-                                <m_Name text="52"/>
+                                <m_Name text="1"/>
                                 <m_Description text=""/>
-                                <m_FXName text="Leader_Foley_Cloth_Short"/>
+                                <m_FXName text="GajahIntro"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>6.038461</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
-                                <m_nTrackIndex>0</m_nTrackIndex>
-                            </Element>
-                            <Element>
-                                <m_eType>SOUND</m_eType>
-                                <m_Name text="53"/>
-                                <m_Description text=""/>
-                                <m_FXName text="Leader_Foley_Cloth_Short"/>
-                                <m_CollectionName text=""/>
-                                <m_AttachmentPointName text=""/>
-                                <m_fStartTime>3.692307</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
-                                <m_nTrackIndex>0</m_nTrackIndex>
-                            </Element>
-                            <Element>
-                                <m_eType>SOUND</m_eType>
-                                <m_Name text="54"/>
-                                <m_Description text=""/>
-                                <m_FXName text="Leader_AMER_TR_FIRST_MEET_B_04"/>
-                                <m_CollectionName text=""/>
-                                <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.816402</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
-                                <m_nTrackIndex>0</m_nTrackIndex>
-                            </Element>
-                            <Element>
-                                <m_eType>SOUND</m_eType>
-                                <m_Name text="103"/>
-                                <m_Description text=""/>
-                                <m_FXName text="Leader_Foley_Cloth_Medium"/>
-                                <m_CollectionName text=""/>
-                                <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.221226</m_fStartTime>
+                                <m_fStartTime>0.000000</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -234,16 +201,16 @@
                         <m_Name text="02_DECLARE_WAR_FROM_HUMAN"/>
                         <m_Description text=""/>
                         <m_AnimationName text="indonesia_gajah_attacked"/>
-                        <m_fDuration>9.166666</m_fDuration>
+                        <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers>
                             <Element>
                                 <m_eType>SOUND</m_eType>
                                 <m_Name text="2"/>
                                 <m_Description text=""/>
-                                <m_FXName text="Leader_AMER_TR_FIRST_MEET_B_04"/>
+                                <m_FXName text="GajahAttacked"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.1</m_fStartTime>
+                                <m_fStartTime>0.000000</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -279,16 +246,16 @@
                         <m_Name text="03_DECLARE_WAR_FROM_AI"/>
                         <m_Description text=""/>
                         <m_AnimationName text="indonesia_gajah_declare_war"/>
-                        <m_fDuration>8.000000</m_fDuration>
+                        <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers>
                             <Element>
                                 <m_eType>SOUND</m_eType>
                                 <m_Name text="3"/>
                                 <m_Description text=""/>
-                                <m_FXName text="Leader_AMER_TR_FIRST_MEET_B_04"/>
+                                <m_FXName text="GajahDeclareWar"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.1</m_fStartTime>
+                                <m_fStartTime>0.000000</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -324,16 +291,16 @@
                         <m_Name text="04_KUDOS"/>
                         <m_Description text=""/>
                         <m_AnimationName text="indonesia_gajah_peaceful"/>
-                        <m_fDuration>5.500000</m_fDuration>
+                        <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers>
                             <Element>
                                 <m_eType>SOUND</m_eType>
                                 <m_Name text="4"/>
                                 <m_Description text=""/>
-                                <m_FXName text="Leader_AMER_TR_FIRST_MEET_B_04"/>
+                                <m_FXName text="GajahPeaceful"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.1</m_fStartTime>
+                                <m_fStartTime>0.000000</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -369,16 +336,16 @@
                         <m_Name text="05_WARNING"/>
                         <m_Description text=""/>
                         <m_AnimationName text="indonesia_gajah_hate_hello"/>
-                        <m_fDuration>3.333333</m_fDuration>
+                        <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers>
                             <Element>
                                 <m_eType>SOUND</m_eType>
                                 <m_Name text="5"/>
                                 <m_Description text=""/>
-                                <m_FXName text="Leader_AMER_TR_FIRST_MEET_B_04"/>
+                                <m_FXName text="GajahHateHello"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.2</m_fStartTime>
+                                <m_fStartTime>0.000000</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -414,16 +381,16 @@
                         <m_Name text="06_DEFEAT"/>
                         <m_Description text=""/>
                         <m_AnimationName text="indonesia_gajah_defeated"/>
-                        <m_fDuration>8.333333</m_fDuration>
+                        <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers>
                             <Element>
                                 <m_eType>SOUND</m_eType>
                                 <m_Name text="6"/>
                                 <m_Description text=""/>
-                                <m_FXName text="Leader_AMER_TR_FIRST_MEET_B_04"/>
+                                <m_FXName text="GajahDefeated"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.1</m_fStartTime>
+                                <m_fStartTime>0.000000</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -649,22 +616,25 @@
             </Element>
         </m_ModelInstances>
     </m_GeometrySet>
+    <m_SplineSet>
+        <m_Splines/>
+    </m_SplineSet>
     <m_CookParams>
         <m_Values>
             <Element class="AssetObjects..FloatValue">
-                <m_fValue>0.000000</m_fValue>
+                <m_fValue>-3.000000</m_fValue>
                 <m_ParamName text="EnvironmentRotationX"/>
             </Element>
             <Element class="AssetObjects..FloatValue">
-                <m_fValue>0.000000</m_fValue>
+                <m_fValue>-28.799999</m_fValue>
                 <m_ParamName text="EnvironmentRotationY"/>
             </Element>
             <Element class="AssetObjects..FloatValue">
-                <m_fValue>10.000000</m_fValue>
+                <m_fValue>18.000000</m_fValue>
                 <m_ParamName text="EnvironmentRotationZ"/>
             </Element>
             <Element class="AssetObjects..FloatValue">
-                <m_fValue>3.000000</m_fValue>
+                <m_fValue>5.000000</m_fValue>
                 <m_ParamName text="AOPower"/>
             </Element>
             <Element class="AssetObjects..FloatValue">
@@ -672,19 +642,19 @@
                 <m_ParamName text="AOScale"/>
             </Element>
             <Element class="AssetObjects..FloatValue">
-                <m_fValue>14.000000</m_fValue>
+                <m_fValue>10.000000</m_fValue>
                 <m_ParamName text="AORadius"/>
             </Element>
             <Element class="AssetObjects..FloatValue">
-                <m_fValue>0.800000</m_fValue>
+                <m_fValue>0.180000</m_fValue>
                 <m_ParamName text="BloomStrength"/>
             </Element>
             <Element class="AssetObjects..FloatValue">
-                <m_fValue>1.000000</m_fValue>
+                <m_fValue>0.990000</m_fValue>
                 <m_ParamName text="BloomThreshold"/>
             </Element>
             <Element class="AssetObjects..FloatValue">
-                <m_fValue>1.000000</m_fValue>
+                <m_fValue>1.500000</m_fValue>
                 <m_ParamName text="ExtraExposureRange"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
@@ -703,10 +673,10 @@
         </m_Values>
     </m_CookParams>
     <m_Version>
-        <major>0</major>
+        <major>4</major>
         <minor>0</minor>
-        <build>0</build>
-        <revision>0</revision>
+        <build>385</build>
+        <revision>613</revision>
     </m_Version>
     <m_ParticleEffects/>
     <m_Geometries/>
@@ -715,9 +685,8 @@
     <m_ClassName text="Leader"/>
     <m_DataFiles/>
     <m_Name text="LEAD_INDO_Gajah"/>
-    <m_Description text="Indonesia_Gajah"/>
+    <m_Description text=""/>
     <m_Tags>
         <Element text="Leader"/>
     </m_Tags>
-    <m_Groups/>
 </AssetObjects..AssetInstance>
