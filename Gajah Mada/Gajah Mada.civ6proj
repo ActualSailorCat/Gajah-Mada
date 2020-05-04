@@ -29,13 +29,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Artdefs" />
-    <Folder Include="Audio\" />
+    <Folder Include="Audio" />
     <Folder Include="Core" />
-    <Folder Include="Assets" />
     <Folder Include="Icons" />
-    <Folder Include="Materials" />
-    <Folder Include="XLPs" />
-    <Folder Include="Textures" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Artdefs\LeaderFallbacks.artdef">
@@ -84,15 +80,6 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Icons\GajahMada_Icons.xml">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="XLPs\Atlas.xlp">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="XLPs\LeaderFallbacks.xlp">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="XLPs\UILeaders.xlp">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>
