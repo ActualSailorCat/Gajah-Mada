@@ -1,12 +1,12 @@
---==========================================================================================================================
--- Shapur I / AI by CIVITAS
---==========================================================================================================================
+--=============================================
+-- Gajah Mada / AI
+--=============================================
 -----------------------------------------------	
 -- FavoredReligions
 -----------------------------------------------	
 INSERT INTO FavoredReligions	
 		(LeaderType,				ReligionType)
-VALUES	('LEADER_CVS_GAJAHMADA',	'RELIGION_ISLAM');
+VALUES	('LEADER_CVS_GAJAH_MADA',	'RELIGION_ISLAM');
 
 -----------------------------------------------	
 -- AiListTypes
@@ -17,6 +17,7 @@ VALUES	('CVS_GAJAHMADA_Civics'),
 		('CVS_GAJAHMADA_Techs'),
 		('CVS_GAJAHMADA_Buildings'),
 		('CVS_GAJAHMADA_Districts'),
+		('CVS_GAJAHMADA_Improvements'),
 		('CVS_GAJAHMADA_PseudoYields'),
 		('CVS_GAJAHMADA_Yields'),
 		('CVS_GAJAHMADA_Units'),
@@ -33,7 +34,7 @@ VALUES	('CVS_GAJAHMADA_Civics',				 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Civics'),
 		('CVS_GAJAHMADA_Techs',					 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Technologies'),
 		('CVS_GAJAHMADA_Buildings',				 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Buildings'),
 		('CVS_GAJAHMADA_Districts',				 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Districts'),
-		('CVS_GAJAHMADA_Districts',				 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Improvements'),
+		('CVS_GAJAHMADA_Improvements',			 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Improvements'),
 		('CVS_GAJAHMADA_PseudoYields',			 'TRAIT_AGENDA_CVS_GAJAHMADA',		'PseudoYields'),
 		('CVS_GAJAHMADA_Yields',				 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Yields'),
 		('CVS_GAJAHMADA_Units',					 'TRAIT_AGENDA_CVS_GAJAHMADA',		'Units'),
@@ -52,7 +53,6 @@ VALUES	('CVS_GAJAHMADA_Yields',			1,			'YIELD_GOLD'),
 		('CVS_GAJAHMADA_PseudoYields',		1,			'PSEUDOYIELD_GPP_GENERAL'),
 		('CVS_GAJAHMADA_PseudoYields',		1,			'PSEUDOYIELD_GPP_ADMIRAL'),
 		('CVS_GAJAHMADA_PseudoYields',		1,			'PSEUDOYIELD_UNIT_COMBAT'),
-		('CVS_GAJAHMADA_PseudoYields',		1,			'PSEUDOYIELD_TECHNOLOGY'),
 		('CVS_GAJAHMADA_PseudoYields',		1,			'PSEUDOYIELD_STANDING_ARMY_NUMBER'),
 		('CVS_GAJAHMADA_PseudoYields',		1,			'PSEUDOYIELD_STANDING_ARMY_VALUE'),
 		('CVS_GAJAHMADA_PseudoYields',		1,			'PSEUDOYIELD_DISTRICT');
@@ -105,15 +105,7 @@ VALUES	('CVS_GAJAHMADA_FavorDominationVictory',	'VICTORY_STRATEGY_MILITARY_VICTO
 INSERT INTO AiFavoredItems	
 		(ListType,									Item,									Favored)
 VALUES	('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_SURPRISE_WAR',		1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_WAR_MINOR_CIV',	1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_FORMAL_WAR',		1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_HOLY_WAR',			1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_RECONQUEST_WAR',	1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_TERRITORIAL_WAR',	1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_JOINT_WAR',				1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_PROTECTORATE_WAR',	1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_LIBERATION_WAR',	1),
-		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_COLONIAL_WAR',		1);
+		('CVS_GAJAHMADA_Diplomacy',					'DIPLOACTION_DECLARE_TERRITORIAL_WAR',	1);
 
 -- PLOT EVALUATION
 INSERT INTO AiFavoredItems

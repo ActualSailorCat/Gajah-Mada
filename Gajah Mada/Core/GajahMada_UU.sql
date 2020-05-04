@@ -39,7 +39,7 @@ INSERT INTO Units	(
 		PurchaseYield,
 		AdvisorType,
 		Combat,
-		RangedCombat
+		RangedCombat,
 		BaseSightRange,
 		ZoneOfControl,
 		Domain,
@@ -52,7 +52,7 @@ INSERT INTO Units	(
 SELECT	'UNIT_CVS_GAJAH_MADA_UU',	-- UnitType
 		'LOC_UNIT_CVS_GAJAH_MADA_UU_NAME',	-- Name
 		'LOC_UNIT_CVS_GAJAH_MADA_UU_DESCRIPTION', -- Description
-		'TRAIT_LEADER_UNIT_CVS_GAJAH_MADA_UU', -- TraitType
+		'TRAIT_LEADER_CVS_GAJAH_MADA_UU', -- TraitType
 		BaseMoves,
 		Cost,
 		StrategicResource,
@@ -120,7 +120,7 @@ VALUES	('ABILITY_CVS_GAJAH_MADA_UU_ATKMOD',	'MODIFIER_UNIT_ADJUST_COMBAT_STRENGT
 -----------------------------------------------
 INSERT INTO ModifierArguments
 		(ModifierId,							Name,			Value)
-VALUES	('ABILITY_CVS_GAJA_MADAH_UU_ATKMOD',	'Amount',		5);
+VALUES	('ABILITY_CVS_GAJAH_MADA_UU_ATKMOD',	'Amount',		5);
 
 -----------------------------------------------		
 -- RequirementSets
@@ -153,11 +153,11 @@ VALUES	('CVS_GAJAH_MADA_VALID_TARGET_REQSET_MET',		'REQUIREMENT_REQUIREMENTSET_I
 -----------------------------------------------
 INSERT INTO RequirementArguments
 		(RequirementId,									Name,					Value)
-VALUES	('CVS_GAJAH_MADA_VALID_TARGET_REQSET_MET'		'RequirementSetId',		'CVS_GAJAH_MADA_UU_TARGET');
+VALUES	('CVS_GAJAH_MADA_VALID_TARGET_REQSET_MET',		'RequirementSetId',		'CVS_GAJAH_MADA_UU_TARGET');
 
 -----------------------------------------------
 -- ModifierStrings
 -----------------------------------------------
 INSERT INTO ModifierStrings
 		(ModifierId,							Context,	Text)
-VALUES	('ABILITY_CVS_GAJA_MADAH_UU_ATKMOD',	'Preview',	'LOC_ABILITY_CVS_GAJA_MADAH_UU_ATKMOD_PREVIEW_TEXT');
+VALUES	('ABILITY_CVS_GAJAH_MADA_UU_ATKMOD',	'Preview',	'LOC_ABILITY_CVS_GAJA_MADAH_UU_ATKMOD_PREVIEW_TEXT');
