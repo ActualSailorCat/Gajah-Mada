@@ -21,6 +21,10 @@
 			<m_EntryID text="Headband_Indo"/>
 			<m_ObjectName text="Headband_Indo"/>
 		</Element>
+		<Element>
+			<m_EntryID text="Cetbang_Cannon"/>
+			<m_ObjectName text="Cetbang_Cannon"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
