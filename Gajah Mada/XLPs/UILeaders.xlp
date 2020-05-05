@@ -29,6 +29,34 @@
 			<m_EntryID text="LEADER_CVS_GAJAH_MADA_BACKGROUND"/>
 			<m_ObjectName text="LEADER_CVS_GAJAH_MADA_BACKGROUND"/>
 		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_CVS_GAJAH_MADA_256"/>
+			<m_ObjectName text="ICON_LEADER_CVS_GAJAH_MADA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_CVS_GAJAH_MADA_32"/>
+			<m_ObjectName text="ICON_LEADER_CVS_GAJAH_MADA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_CVS_GAJAH_MADA_45"/>
+			<m_ObjectName text="ICON_LEADER_CVS_GAJAH_MADA_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_CVS_GAJAH_MADA_50"/>
+			<m_ObjectName text="ICON_LEADER_CVS_GAJAH_MADA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_CVS_GAJAH_MADA_55"/>
+			<m_ObjectName text="ICON_LEADER_CVS_GAJAH_MADA_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_CVS_GAJAH_MADA_64"/>
+			<m_ObjectName text="ICON_LEADER_CVS_GAJAH_MADA_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_CVS_GAJAH_MADA_80"/>
+			<m_ObjectName text="ICON_LEADER_CVS_GAJAH_MADA_80"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
