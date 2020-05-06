@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<AssetObjects::GameArtSpecification>
+<AssetObjects..GameArtSpecification>
 	<id>
 		<name text="Gajah_Mada"/>
 		<id text="ed6d133e-4b9d-4194-b8db-10075e8dd90c"/>
@@ -574,7 +574,6 @@
 		<Element>
 			<libraryName text="UITexture"/>
 			<relativePackagePaths>
-				<Element text="UI/Icons"/>
 				<Element text="UILeaders"/>
 			</relativePackagePaths>
 		</Element>
@@ -611,4 +610,4 @@
 			<id text="725760e3-7fc0-4be7-abf1-17bc756d5436"/>
 		</Element>
 	</requiredGameArtIDs>
-</AssetObjects::GameArtSpecification>
+</AssetObjects..GameArtSpecification>

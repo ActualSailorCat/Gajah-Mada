@@ -165,3 +165,12 @@ VALUES	('CVS_GAJAH_MADA_EMBARKED_TARGET',				'TerrainClass',			'TERRAIN_CLASS_WA
 INSERT INTO ModifierStrings
 		(ModifierId,							Context,	Text)
 VALUES	('ABILITY_CVS_GAJAH_MADA_UU_ATKMOD',	'Preview',	'LOC_ABILITY_CVS_GAJA_MADAH_UU_ATKMOD_PREVIEW_TEXT');
+
+-----------------------------------------------
+-- Historic Moment Images
+-----------------------------------------------
+CREATE TABLE IF NOT EXISTS MomentIllustrations (MomentIllustrationType VARCHAR, MomentDataType VARCHAR, GameDataType VARCHAR, Texture VARCHAR);
+
+INSERT INTO MomentIllustrations (MomentIllustrationType, MomentDataType, GameDataType, Texture)
+SELECT 	'MOMENT_ILLUSTRATION_UNIQUE_UNIT', 'MOMENT_DATA_UNIT', Type, 'Cetbang_HM.dds'
+FROM   Types WHERE Type = 'UNIT_CVS_GAJAH_MADA_UU';

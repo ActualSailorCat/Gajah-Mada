@@ -10,6 +10,38 @@
 	<m_PackageName text="UILeaders"/>
 	<m_Entries>
 		<Element>
+			<m_EntryID text="ICON_UNIT_CVS_GAJAH_MADA_UU_22"/>
+			<m_ObjectName text="ICON_UNIT_CVS_GAJAH_MADA_UU_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_CVS_GAJAH_MADA_UU_32"/>
+			<m_ObjectName text="ICON_UNIT_CVS_GAJAH_MADA_UU_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_CVS_GAJAH_MADA_UU_38"/>
+			<m_ObjectName text="ICON_UNIT_CVS_GAJAH_MADA_UU_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_CVS_GAJAH_MADA_UU_50"/>
+			<m_ObjectName text="ICON_UNIT_CVS_GAJAH_MADA_UU_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_CVS_GAJAH_MADA_UU_80"/>
+			<m_ObjectName text="ICON_UNIT_CVS_GAJAH_MADA_UU_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_CVS_GAJAH_MADA_UU_256"/>
+			<m_ObjectName text="ICON_UNIT_CVS_GAJAH_MADA_UU_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CVS_GAJAH_MADA_UU_PORTRAIT_95"/>
+			<m_ObjectName text="ICON_CVS_GAJAH_MADA_UU_PORTRAIT_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Cetbang_HM"/>
+			<m_ObjectName text="Cetbang_HM"/>
+		</Element>
+		<Element>
 			<m_EntryID text="CVS_GAJAH_MADA_1"/>
 			<m_ObjectName text="CVS_GAJAH_MADA_1"/>
 		</Element>
