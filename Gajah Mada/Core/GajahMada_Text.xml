@@ -225,10 +225,10 @@
 					<Text>Gajah Mada seeks to rule the continent.</Text>
 				</Row>
 
-				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_HOME" Language="en_US">
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_TRADE" Language="en_US">
 					<Text>(You have trade routes with Gajah Mada.)</Text>
 				</Row>
-				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_HOME" Language="en_US">
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_TRADE" Language="en_US">
 					<Text>Gajah Mada likes those who trade with him.</Text>
 				</Row>
 
