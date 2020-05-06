@@ -23,11 +23,11 @@
 					<Text>Gajah Mada</Text>
 				</Row>
 				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_SUBTITLE" Language="en_US">
-					<Text>Mahapatih of the Majapahit Empire</Text>
+					<Text>Mahapatih (Prime Minister) of the Majapahit Empire</Text>
 				</Row>
 				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_QUOTE" Language="en_US">
 					<Text>
-						If there is no army, the sovereign remains without servants, the religion without adherents, the arms become useless, mercy obsolete, and the treasury unprofitable. (Denkard III 134; translated by A. Tafazzoli)
+						If I succeed in conquering Nusantara, I will break my fast. If Gurun, Seram, Tanjung Pura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Temasek, are all conquered, I will break my fast.
 					</Text>
 				</Row>
 				<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CVS_GAJAH_MADA_CHAPTER_HISTORY_PARA_1" Language="en_US">
@@ -211,41 +211,34 @@
 
 
 				<!--LEADER AGENDA-->
-				<Row Tag="LOC_AGENDA_CVS_OXUS_TO_EUPHRATES_NAME" Language="en_US">
+				<Row Tag="LOC_AGENDA_CVS_GAJAH_MADA_NAME" Language="en_US">
 					<Text>Nagarakretagama</Text>
 				</Row>
-				<Row Tag="LOC_AGENDA_CVS_OXUS_TO_EUPHRATES_DESCRIPTION" Language="en_US">
-					<Text>Shapur I will strive to expand his empire by any means. He respects those who go to war, and who maintain a standing army.</Text>
+				<Row Tag="LOC_AGENDA_CVS_GAJAH_MADA_DESCRIPTION" Language="en_US">
+					<Text>Gajah Mada looks to conquer all of his home continent, but appreciates those who send trade routes to him.</Text>
 				</Row>
 
-				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_WAR" Language="en_US">
-					<Text>(You have waged war.)</Text>
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_HOME" Language="en_US">
+					<Text>(You are on the same continent.)</Text>
 				</Row>
-				<Row Tag="LOC_DIPLO_MODIFIER_CVS_OXUS_TO_EUPHRATES_WAR" Language="en_US">
-					<Text>Shapur I applauds your penchant for war.</Text>
-				</Row>
-
-				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_STANDING_HIGH" Language="en_US">
-					<Text>(You maintain a standing army.)</Text>
-				</Row>
-				<Row Tag="LOC_DIPLO_MODIFIER_CVS_OXUS_TO_EUPHRATES_STANDING_HIGH" Language="en_US">
-					<Text>Shapur I praises your powerful military.</Text>
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_HOME" Language="en_US">
+					<Text>Gajah Mada seeks to rule the continent.</Text>
 				</Row>
 
-				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_STANDING_LOW" Language="en_US">
-					<Text>(Your army is weak.)</Text>
+				<Row Tag="LOC_DIPLO_KUDO_LEADER_CVS_GAJAH_MADA_REASON_HOME" Language="en_US">
+					<Text>(You have trade routes with Gajah Mada.)</Text>
 				</Row>
-				<Row Tag="LOC_DIPLO_MODIFIER_CVS_OXUS_TO_EUPHRATES_STANDING_LOW" Language="en_US">
-					<Text>Shapur I disapproves of your pitiful military.</Text>
+				<Row Tag="LOC_DIPLO_MODIFIER_CVS_GAJAH_MADA_HOME" Language="en_US">
+					<Text>Gajah Mada likes those who trade with him.</Text>
 				</Row>
 
 				<!--AI Kudos-->
 				<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Conquest is a truth every leader must embrace if he is to increase the glory of his realm. More should lead by your example.</Text>
+					<Text>The wealth of your merchants now enriches my people and - in return - you are able to sample the bounty of Nusantara. I myself abstain from these culinary luxuries, but I certainly have no qualm with the riches they bring.</Text>
 				</Row>
 				<!--AI Warnings-->
 				<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CVS_GAJAH_MADA_ANY" Language="en_US">
-					<Text>Cowardly leaders untested in war do not fare well. Act, before you are beaten like a filthy carpet.</Text>
+					<Text>I have sworn to unite all of the lands of Great Nusantara under the banner of the Majapahit and, yet, here you are... existing. We'll rectify that problem soon enough though, I'm sure.</Text>
 				</Row>
 
 		<!-- Unit Ability -->
@@ -265,8 +258,13 @@
 		</Row>
 		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_1" Language="en_US">
 			<Text>
-				The Daylamites inhabited northern Iran and were lauded on several occasions in third-party sources as infantry to be reckoned with. From an area crimped with highlands and ridges, dense with forest, and made all the more tenable by fortresses, the Daylamites proved difficult to conquer. Formidable as they were, even upon submitting to the Sassanids, the Daylamites retained their independence.
+				A Cetbang, also known as a Bedil or Caok, was a type of cannon use by the Majapahit Empire and other states in modern-day Indonesia. It was a form of breach-loading cannon, usually made from bronze or - in the sixteenth century - iron. Cetbangs varied in size from one to three meters in length, depending on where they were mounted, usually on ships or in fortresses. They were often employed in repelling attacks by pirates, mounted on swivel guns for ease of aiming in a variety of directions. Cetbangs were also occasionally decorated with ornamentation, such as depicting its mouth as that of a Naga serpent.
 			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CVS_GAJAH_MADA_UU_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>
+				Cannon technology was introduced to the Majapahit during Kublai Khan's invasion of Java in 1293. The Majapahit then pioneered the manufacture and mass deployment of gunpowder weapons in the region over the course of the next century, particularly during the tenure of Mahapatih (Prime Minister) Gajah Mada in the mid-fourteenth century. By the sixteenth century, production of Cetbangs had become so well refined that even the Portuguese believed them to be of excellent craftsmanship. Cetbangs and other similar gunpowder weapons remained in use for centuries after the collapse of the Majapahit Empire as common weapons aboard the many merchant ships throughout the archipelago, protecting the vast wealth and valuable goods of Nusantara.
+i			</Text>
 		</Row>
 	</LocalizedText>
 </GameData>
