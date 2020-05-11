@@ -2,7 +2,7 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Gajah Mada</Name>
+    <Name>CIVITAS [ICON_GREATPERSON] Gajah Mada</Name>
     <Guid>ed6d133e-4b9d-4194-b8db-10075e8dd90c</Guid>
     <ProjectGuid>b8682371-0073-4976-9451-9226b63e2a5f</ProjectGuid>
     <ModVersion>1</ModVersion>
