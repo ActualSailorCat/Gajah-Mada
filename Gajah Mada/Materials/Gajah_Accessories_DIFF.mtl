@@ -38,12 +38,12 @@
                 <m_ParamName text="FuzzTint"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="gajah_accessories_diff_sref_a_2048"/>
+                <m_ObjectName text="gajah_accessories_diff_sref_add"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="BaseColor"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="gajah_accessories_norm_2048"/>
+                <m_ObjectName text="gajah_accessories_norm"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="Normal"/>
             </Element>
@@ -57,7 +57,7 @@
                 <m_ParamName text="Seperate_AO_UV"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="gajah_accessories_sref_alpha_m_2048"/>
+                <m_ObjectName text="gajah_accessories_sref_alpha_m_stretch"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="Metalness"/>
             </Element>
