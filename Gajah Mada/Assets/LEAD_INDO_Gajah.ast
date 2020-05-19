@@ -217,7 +217,7 @@
                                 <m_FXName text="GajahIntro"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fStartTime>0.1604941</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -262,7 +262,7 @@
                                 <m_FXName text="GajahAttacked"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fStartTime>0.518518567</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -307,7 +307,7 @@
                                 <m_FXName text="GajahDeclareWar"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fStartTime>0.6913579</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -352,7 +352,7 @@
                                 <m_FXName text="GajahPeaceful"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fStartTime>0.1947828</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -397,7 +397,7 @@
                                 <m_FXName text="GajahHateHello"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fStartTime>0.6790121</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -442,7 +442,7 @@
                                 <m_FXName text="GajahDefeated"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fStartTime>0.69135803</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
@@ -487,7 +487,7 @@
                                 <m_FXName text="GajahDeclareWar"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fStartTime>0.6913579</m_fStartTime>
                                 <m_fDuration>0.000000</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
