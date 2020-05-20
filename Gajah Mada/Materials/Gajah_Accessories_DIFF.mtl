@@ -57,7 +57,7 @@
                 <m_ParamName text="Seperate_AO_UV"/>
             </Element>
             <Element class="AssetObjects..ObjectValue">
-                <m_ObjectName text="gajah_accessories_sref_alpha_m_stretch"/>
+                <m_ObjectName text="gajah_metalness_3"/>
                 <m_eObjectType>TEXTURE</m_eObjectType>
                 <m_ParamName text="Metalness"/>
             </Element>
